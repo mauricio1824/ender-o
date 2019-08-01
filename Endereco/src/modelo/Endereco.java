@@ -51,4 +51,12 @@ public class Endereco {
     public String toString() {
         return "Endereco{" + "logradouro=" + logradouro + ", complemento=" + complemento + ", bairro=" + bairro + '}';
     }
+
+    public void setNome(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public void setDescricao(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
